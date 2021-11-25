@@ -1,2 +1,2 @@
 # image_resizer
-create image resize a lot of folder by this simple script
+create a lot of image resize  in existing folder by this simple script
